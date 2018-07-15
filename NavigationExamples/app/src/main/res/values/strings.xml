@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavigationExamples</string>
+    <string name="title_home">title_home</string>
+    <string name="r">title_dashboard</string>
+    <string name="title_notifications">title_notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
